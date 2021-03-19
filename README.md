@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AshutoshRanghar
-- 👀 I’m interested in designing end to end pipeline and data transformation projects with Lambda Architecture constituted of Streaming Micro Batching and Batching systems in a nutshell,combination of Big data tools.
+- 👀 Currently working as a Data Engineer |Big Data Developer|Hadoop Spark-Scala developer with more than 4.10+ Years of IT experience. A self-motivated professional highly skilled in all aspects end to end data engineering. Currently having working experience in (Hadoop, Spark, Scala, Spark-Structured Streaming, Kafka Streaming, AWS Big data tools like EMR, Elastic Search, Log stash, Kibana, Kinesis, SQS).
+With a significant amount of exposure in building end to end lambda driven pipeline. Ensuring overall efficiency productivity and enhanced parallelism and great at solving problems by looking at things differently, debugging, troubleshooting, and designing & implementing solutions to complex technical issues.
+
 - 🌱 I’m currently learning 
 - 📫 How to reach me ashutoshranghar1@gmail.com
 
